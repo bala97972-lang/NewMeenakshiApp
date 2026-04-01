@@ -17,5 +17,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: my-app-package
+          name: NewMeenakshiApp
           path: bin/*.apk
